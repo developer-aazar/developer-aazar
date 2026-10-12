@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-latif-jatoi-a9115a3b8/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aazar.work@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=developer-aazar&style=flat&color=6366F1&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
