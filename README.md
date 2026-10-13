@@ -4,7 +4,7 @@ Keep the assets/ folder in the same repository as this README.md so the banner d
 -->
 
 <p align="center">
-  <img src="./assets/Abdul_Latif_Jatoi_Tech_Banner.png" alt="Abdul Latif Jatoi — AI Engineer, Backend Developer, and AI Integration" width="100%" />
+  <img src="Abdul_Latif_Jatoi_Tech_Banner.png" alt="Abdul Latif Jatoi — AI Engineer, Backend Developer, and AI Integration" width="100%" />
 </p>
 
 <p align="center">
